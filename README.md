@@ -11,6 +11,6 @@ Together we can create a shared Bot AI for all the heroes out there in Dota. Hav
 For utility functions, please keep one function per file and name the file after the function so we can keep the directories clean, understandable and usable for everyone.
 
 ## Useful links
-* https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting - Valves Wiki for the Dota 2 Bot API
+* https://developer.valvesoftware.com/wiki/Dota\_Bot\_Scripting - Valves Wiki for the Dota 2 Bot API
 * http://dev.dota2.com/forumdisplay.php?f=497 - Dota 2 developer forum for Dota 2 bot scripting
 * https://www.reddit.com/r/dota2AI/ - Subreddit for Dota 2 bot scripting
