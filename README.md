@@ -1,3 +1,5 @@
+# Forked from https://github.com/dota2bots/dota2bots
+
 # dota2bots
 Library of Dota 2 Bot scripts
 
