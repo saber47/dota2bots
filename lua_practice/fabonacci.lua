@@ -8,18 +8,18 @@ function fabonacci(n)
         print ('must be positive number')
     end
     io.write('Fabonacci sequence of ',n, '\n\t')
-    a = 1
+    local a = 1
     io.write(a)
     if n < 2 then
         return
     end
-    b = 1
+    local b = 1
     io.write(',',b)
     if n < 3 then
         return
     end
     for i=3,n do
-        c = a+b
+        local c = a+b
         a = b
         b = c
         io.write(',',b)
